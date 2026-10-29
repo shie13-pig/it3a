@@ -46,13 +46,13 @@ $activities = $stmt->fetchAll(PDO::FETCH_ASSOC);
         content="width=device-width, initial-scale=1"
     >
 
-    <title>Activity Logs</title>
+    <title>WELCOME ADMIN</title>
 
 </head>
 
 <body>
 
-    <h1>Activity Logs</h1>
+    <h1>WELCOME ADMIN</h1>
 
     <p>
         <a href="./../auth/signout.php">Logout</a>
